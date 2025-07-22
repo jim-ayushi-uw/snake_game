@@ -4,7 +4,8 @@ Welcome to the nostalgic **Snake Game** — a Python recreation of the legendary
 
 ## 🔹 Demo
 
-![Snake Game Demo](demo.gif)  coming soon
+![Snake Game Demo](demo.gif) 
+
 
 
 ---
@@ -43,20 +44,3 @@ Welcome to the nostalgic **Snake Game** — a Python recreation of the legendary
 git clone https://github.com/jim-ayushi-uw/snake_game.git
 cd snake_game
 python snake_game.py
-
-## 🎮 Gameplay Instructions
-Use Arrow Keys to control the snake:
-
-↑ Up
-
-↓ Down
-
-← Left
-
-→ Right
-
-Eat red food to grow and increase score
-
-Avoid hitting the walls or yourself
-
-Game over when you collide with any boundary or your own body
