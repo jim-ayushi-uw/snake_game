@@ -4,9 +4,8 @@ Welcome to the nostalgic **Snake Game** — a Python recreation of the legendary
 
 ## 🔹 Demo
 
-![Snake Game Demo](demo.gif)
+![Snake Game Demo](demo.gif)  coming soon
 
-> *Controls: Arrow Keys (↑ ↓ → ←)*
 
 ---
 
@@ -27,7 +26,7 @@ Welcome to the nostalgic **Snake Game** — a Python recreation of the legendary
   ← Left
   → Right
 
- - Eat red food to grow and increase score
+ - Eat food to grow and increase score
  - Avoid hitting the walls or yourself
  - Game over when you collide with any boundary or your own body
 
