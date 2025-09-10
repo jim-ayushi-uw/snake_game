@@ -6,6 +6,7 @@ Welcome to the nostalgic **Snake Game** — a Python recreation of the legendary
 
 ![Snake Game Demo](demo.gif)
 
+> *Controls: Arrow Keys (↑ ↓ → ←)*
 
 ---
 
