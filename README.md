@@ -2,13 +2,22 @@
 
 Welcome to the nostalgic **Snake Game** — a Python recreation of the legendary game we all loved on old Nokia phones! Built using the `turtle` module, this version keeps it simple, retro, and fun 🎮.
 
+---
+
 ## 🔹 Demo
 
-![Snake Game Demo](demo.gif)
+<p align="center">
+  <img src="demo.gif" alt="Snake Game Demo" />
+</p>
+
+<p align="center">
+  <em>Controls: Arrow Keys (↑ ↓ → ←)</em>
+</p>
 
 > *Controls: Arrow Keys (↑ ↓ → ←)*
 
 ---
+
 
 ## 📦 Features
 
@@ -33,3 +42,4 @@ Welcome to the nostalgic **Snake Game** — a Python recreation of the legendary
 git clone https://github.com/jim-ayushi-uw/snake_game.git
 cd snake_game
 python snake_game.py
+
