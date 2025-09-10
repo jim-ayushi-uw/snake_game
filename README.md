@@ -11,7 +11,6 @@ Welcome to the nostalgic **Snake Game** — a Python recreation of the legendary
 </p>
 
 <p align="center">
-  <em>Controls: Arrow Keys (↑ ↓ → ←)</em>
 </p>
 
 > *Controls: Arrow Keys (↑ ↓ → ←)*
@@ -42,4 +41,5 @@ Welcome to the nostalgic **Snake Game** — a Python recreation of the legendary
 git clone https://github.com/jim-ayushi-uw/snake_game.git
 cd snake_game
 python snake_game.py
+
 
